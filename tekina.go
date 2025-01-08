@@ -2,7 +2,7 @@ package tekina
 
 import "fmt"
 
-func aboutMe() {
+func AboutMe() {
 	fmt.Println("Hey this is Aniket, the author of this go module")
 }
 func main() {
